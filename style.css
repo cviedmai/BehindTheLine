@@ -1,0 +1,14 @@
+#mapContainer {
+	width: 200px;
+	height: 200px;
+}
+#controlsContainer{
+	width: 100px;
+	height: 100px;
+	background-color: #0f0;
+}
+#statusBar{
+	width: 100px;
+	height: 100px;
+	background-color: #f00;
+}
